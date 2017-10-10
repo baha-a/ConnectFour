@@ -8,4 +8,4 @@ You can change the dimensions of playing board as you want.
 
 Screenshot:
 
-![alt text](https://raw.githubusercontent.com/bhlshrf/ConnectFour/master/ConnectFour/C4.jpg)
+![Main form of the game](https://raw.githubusercontent.com/bhlshrf/ConnectFour/master/ConnectFour/C4.jpg)
