@@ -7,4 +7,5 @@ You can play both with another human player, or with CPU player.
 You can change the dimensions of playing board as you want.
 
 Screenshot:
+
 ![alt text](https://raw.githubusercontent.com/bhlshrf/ConnectFour/master/ConnectFour/C4.jpg)
